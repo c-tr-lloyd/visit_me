@@ -30,19 +30,17 @@ footer a {
 }
 
 
-
 .nav {  
   background-color: #0e6251;
-  display: flex;  
-  padding: 0.25rem; 
+  display: flex;
+  padding: 0;   
   overflow: hidden; 
 }
 
 .nav a { 
   color: #640466;
-  margin: 0 1rem; 
-  padding-right: 2rem;
-  padding-left: 6rem;  
+  margin: 0 1rem;
+  padding: 0.5rem 2rem 0.5rem 6rem;   
   white-space: nowrap; 
 }
 
@@ -60,20 +58,9 @@ footer a {
   margin: 0 1rem;   
 }
 
-#register { 
-  background-color: #148f77;
-  width: 300px;
-  height: 300px;
-  border-radius: 5%; 
-  display: flex; 
-  flex-direction: column; 
-  place-self: center; 
-  margin: 8rem 0;  
-}
-
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #640466;
   
   text-decoration: inherit;
 }
