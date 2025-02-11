@@ -1,11 +1,8 @@
 <template>
-
-
     <div class='structure'>
-
-    
+   
     <div class='about'> 
-        <p>Lorem ipsum dolor sit amet</p>
+        <p>Lorem Ipsum</p>
     </div>
 
     <form class='con_form'>
@@ -108,7 +105,7 @@
 
     .con_form .submit:hover { 
         background-color: var(--clr); 
-        color: var(--bg-dark); 
+        color: var(--bg-light); 
     }
 
     
