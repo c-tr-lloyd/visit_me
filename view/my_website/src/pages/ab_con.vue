@@ -1,6 +1,6 @@
 <template>
     <div class='structure'>
-   
+    
     <div class='about'> 
         <p>Lorem Ipsum</p>
     </div>
@@ -60,7 +60,7 @@
     textarea { 
         border-radius: 0.5rem; 
         padding: 1rem 0.75rem; 
-        width: 100%; 
+        width: 95%; 
         border: none; 
         display: flex; 
         align-items: center; 
@@ -123,8 +123,7 @@
     .about {  
         width: 100%; 
         max-width: 365px; 
-        padding-right: 3rem; 
-        margin-top: 5rem;
-        height: inherit; 
+        padding-left: 3rem; 
+        margin-top: 3rem; 
     }
 </style>
