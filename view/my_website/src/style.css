@@ -35,13 +35,14 @@ footer a {
   display: flex;
   padding: 0;   
   overflow: hidden; 
+  height: 1.5rem; 
 }
 
 .nav a { 
   color: #640466;
   margin: 0 1rem;
-  padding: 0.5rem 2rem 0.5rem 6rem;   
-  white-space: nowrap; 
+  padding: 0.25rem 2rem 0.5rem 4.5rem;   
+  white-space: nowrap;  
 }
 
 #logo_name { 

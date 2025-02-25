@@ -4,7 +4,7 @@
 <template>
   <div id='opening'> 
     <div id='logo_name'>
-      <router-link to='/'><img src='./assets/full_cust_logo.png' height='100px'></router-link>
+      <router-link to='/'><img src='./assets/full_cust_logo.png' height='75px'></router-link>
     </div>
 
     <div class='nav'>
